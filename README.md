@@ -1,5 +1,5 @@
 # micro_macro_paint
-practice for exam 03 of the 42 curriculum
+practice for exam 03 of the 42 curriculum  
 #The Subject
 Assignment name  : micro_paint
 Expected files   : *.c *.h

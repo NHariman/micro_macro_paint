@@ -27,6 +27,7 @@ if ((x - rr.x < 1.000000 || (rr.x + rr.w) - x < 1.00000) ||
 ## The Subjects
 
 ### Mini_paint
+```
 Assignment name  : mini_paint
 Expected files   : *.c *.h
 Allowed functions: fopen, fread, fscanf, fclose, write, malloc, calloc, realloc, free, memset, powf, sqrtf
@@ -93,8 +94,10 @@ You should find our_mini_paint to help you test yours with some operation_file.e
 Hint:
 If you've got 2 points are defined as (Xa,Ya) and (Xb,Yb)
 You can get the distance between the two points with this formula: srqt((Xa - Xb) * (Xa - Xb) + (Ya - Yb) * (Ya - Yb))
+```
 
 ### Micro_paint
+```
 Assignment name  : micro_paint
 Expected files   : *.c *.h
 Allowed functions: fopen, fread, fscanf, fclose, write, malloc, calloc, realloc, free, memset, powf, sqrtf
@@ -161,5 +164,5 @@ Hint:
 If a point is defined as (Xa, Ya)
 And a rectangle with a top left corner (Xtl, Ytl) and a bottom right corner (Xbr, Ybr)
 If Xtl <= Xa <= Xbr and Ytl <= Ya <= Ybr then the point is in the rectangle
-
+```
 

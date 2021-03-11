@@ -3,11 +3,11 @@ practice for exam 03 of the 42 curriculum
 
 Print a bunch of characters in the terminal, rectangles for micro_paint and circles for macro_paint.
 
-#* Checks to make:
+# Checks to make:
 - if file is finished (fscanf ret == -1, break)
 - str as arr: width * height as length of string
 
-##* Checks/reminders in mini_paint
+## Checks/reminders in mini_paint
 - if type is something other than 'c' or 'C'
 - if fscanf returns something other than 5 or -1
 - if radius <= 0.000000
